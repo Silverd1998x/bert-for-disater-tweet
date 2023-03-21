@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+tokenization
+wordcloud
+scikit-learn
+tensorflow
+tensorflow-hub
+sentencepiece
